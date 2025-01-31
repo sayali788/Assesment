@@ -20,3 +20,11 @@ Generate personas such as "High Performer" and "Low Performer" based on accuracy
 
 5. Personalized Recommendations:
 Based on the weaknesses identified for the student, suggest concentrating on specific areas or types of questions.
+
+
+
+https://drive.google.com/file/d/1NTjgnXUV_ujscxexof1RhVqmESa8d9Z4/view?usp=sharing (video link)
+
+
+
+
